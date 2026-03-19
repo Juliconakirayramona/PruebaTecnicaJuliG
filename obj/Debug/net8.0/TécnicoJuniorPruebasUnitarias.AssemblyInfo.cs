@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TécnicoJuniorPruebasUnitarias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c8ac0d2600b2468f00357df8c52b5e2366d5f9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TécnicoJuniorPruebasUnitarias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TécnicoJuniorPruebasUnitarias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
